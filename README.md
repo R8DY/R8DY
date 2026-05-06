@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=hey%20baba%20grill%20👀&fontSize=50&fontAlignY=35&desc=what%20you%20doing%20on%20my%20pages%20%F0%9F%AB%A3&descAlignY=58&descSize=22&animation=fadeIn&fontColor=ffffff)
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=FF6EC7&center=true&vCenter=true&width=600&lines=stop+edging+me+%F0%9F%98%AD;i+said+STOP+%E2%9C%8B;why+are+you+still+here+%F0%9F%91%80;ok+fine+you+can+stay+%F0%9F%8C%88;but+STOP+EDGING+ME+%F0%9F%98%AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=FF6EC7&center=true&vCenter=true&width=600&lines=stop+edging+me+%F0%9F%98%AD;i+said+STOP+%E2%9C%8B;why+are+you+still+here+%F0%9F%91%80;ok+fine+you+can+stay+%F0%9F%8C%88;but+STOP+EDGING+ME+%F0%9F%98%AD;let+it+bust+%F0%9F%8C%88)](https://git.io/typing-svg)
 
 ---
 
@@ -46,7 +46,7 @@
 
 ## 🔥 most used langs
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=ffffff&border_radius=12" />
+<img src="https://images-ext-1.discordapp.net/external/1yLnNj7UTTVUiI-BVoNS54mDTuVjtMU7c3oNFEoWYw8/%3Fq%3Dtbn%3AANd9GcRGmG3jX4M25G5xKx1G5AtgwlDbz4xZ0xJqDg%26s/https/encrypted-tbn0.gstatic.com/images?format=webp" />
 
 ---
 
