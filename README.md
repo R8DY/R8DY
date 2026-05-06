@@ -33,7 +33,7 @@
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
-
+<img src="https://blogs.colum.edu/demomagazine/files/2017/07/sheacoulee-headshot.jpg" />
 ---
 
 ## 💜 vibes
